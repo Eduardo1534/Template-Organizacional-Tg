@@ -1,0 +1,25 @@
+const defaultItems = [
+  "Farda P/PP",
+  "Cam. camuflada diversos tam. Nova"
+  ,"Meia nova",
+  "Calça agasalho TFM Nova",
+  "Tênis TFM Novo",
+  "Calça agasalho TFM M Novo",
+  "Gorro novo","Toalha nova",
+  "Coturno novo diversos Tam. Novo",
+  "Japona Tam. G Nova",
+  "Japona Tam. G e M Nova",
+  "Gandola e Calça Diversos Tam. Novo",
+  "Chinelo Novo",
+  "Tênis TFM Todos Tam.",
+  "Tênis TFM Tam. 42/43/45/46",
+  "Boina",
+  "Coturno 43 Novo",
+   "Coturno 38/39/46 Novo",
+   "TFM Novo",
+   "2° Pele Todos Tam. Nova",
+   "Coturno Tam. 40 até 46",
+   "Cinto","Cinto Novo",
+   "Barrigueira e Cinto (Campo)",
+   "Farda antiga"
+];
