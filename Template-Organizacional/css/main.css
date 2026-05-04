@@ -1,0 +1,17 @@
+body{
+      margin: 0;
+      padding: 0;
+      width: 21cm;
+
+    }
+div{
+    width: 21cm;
+    height: 6.30cm;
+    padding:0cm 3cm 0cm 3cm;
+    align-content:center;
+    text-align: center;
+    font-size: 70px;
+    font-family: Arial;
+    border: solid black;
+    border-width: 2px 2px 1px 2px;
+}
