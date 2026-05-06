@@ -1,0 +1,16 @@
+LEGENDA DO NOME DAS FOTOS:
+
+    CASO 1 FOTO:
+        A unica foto deverá ter o nome 01 + a extenção*
+    
+    CASO 2 FOTOS:   
+        A primeira foto deverá ter o nome 01 + extenção*;
+        A segunda foto deverá ter o nome 02 + extenção*.
+    
+    CASO 3 FOTOS: 
+        A primeira foto deverá ter o nome 01 + extenção*;
+        A segunda foto deverá ter o nome 02 + extenção*;
+        A terceira foto deverá ter o nome 02 + extenção*.
+
+    OBS: 
+        * extenção é o formato do arquivo podendo ser .png, .jpg, .jpeg, entre outros.

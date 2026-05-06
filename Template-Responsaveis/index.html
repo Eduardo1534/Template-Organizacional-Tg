@@ -26,38 +26,38 @@
         <div class="secHeader-place">
             <input type="text" class="place-name" value="Area"/>
         </div>
-        <div class="main">
+        <div id="main" class="main">
             <div id="firstSection" class="firstSection">
                 <div class="div-role">
                     <input value="tarefa" id="role1" type="text">
                 </div>
                 <div class="div-photo">
-                    <img id="img-1" alt="Nomeie a foto como 01" src="./Monitores/01.jpg" >
+                    <img id="img-1" alt="Nomeie a foto como 01" onerror="imgVerification(1)" src="./Monitores/01"  >
                 </div>
                 <div class="div-name" >
                     <input value="nome" id="name1" type="text">
                 </div>
+            </div>
+            <div id="div-img-tg" class="div-img-tg">
+                <img src="./Images/tg.jpg"" alt="" >
             </div>
             <div id="secondSection" class="secondSection">
                 <div class="div-role">
                     <input value="tarefa" id="role2" type="text">   
                 </div>
                 <div class="div-photo">
-                    <img id="img-2" alt="Nomeie a foto como 02" src="./Monitores/02.jpg" >
+                    <img id="img-2" alt="Nomeie a foto como 02" onerror="imgVerification(2)" src="./Monitores/02"  >
                 </div>
                 <div class="div-name" >
                     <input value="nome" id="name2" type="text">
                 </div>
-            </div>
-            <div id="div-img-tg" class="div-img-tg">
-                <img src="./Images/tg.jpg"" alt="" >
             </div>
             <div id="thirdSection" class="thirdSection">
                 <div class="div-role">
                     <input value="tarefa" id="role3" type="text" >
                 </div>
                 <div class="div-photo">
-                    <img id="img-3" alt="Nomeie a foto como 03" src="./Monitores/03.jpg"  >
+                    <img id="img-3" alt="Nomeie a foto como 03" src="./Monitores/03" onerror="imgVerification(3)" >
                 </div>
                 <div class="div-name">
                     <input value="nome" id="name3" type="text">
@@ -65,6 +65,9 @@
             </div>
         </div>
     </div>
+    <script  src="./js/config.js"></script>
+    <script  src="./js/warnings.js"></script>
+    <script  src="./js/functions.js"></script>
     <script src="./js/index.js"></script>
 </body>
 
