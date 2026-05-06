@@ -126,6 +126,9 @@ input:focus{
     align-items: center;
     justify-content: center;
 }
+.div-img-tg img{
+    height: 80%;
+}
 .secondSection{
     display: none;
     flex-direction: column;
